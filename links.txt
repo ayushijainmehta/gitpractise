@@ -1,0 +1,27 @@
+https://www.youtube.com/watch?v=6VT8hDr2GhU&list=PLfVsf4Bjg79CZ5kHTiQHcm-l2q8j06ofd            (For C programing)
+https://www.youtube.com/watch?v=SQHREey_Yuc&list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C            (For C++)
+https://www.youtube.com/watch?v=hsiD7Zr4AK8&list=PLiOa6ike4WAHljIOitb3vR0nXQgneUedR&index=2    (For Java)
+https://www.youtube.com/watch?v=5uTQz43k4gg&list=PLsFNQxKNzefJNztGGoQC-59UhSwIaiIW3            (For DataStructure)
+https://www.youtube.com/watch?v=cFd1PjKEZM0&list=PLV8vIYTIdSnYgxRYBC7blHaVUGFHUXLns            (Networking)
+https://www.youtube.com/watch?v=tZreaH_FyMs&list=PLV8vIYTIdSnat3WCO9jfehtZyjnxb74wm            (Software Engineering)
+https://www.youtube.com/watch?v=9lQs4VwYcaQ&list=PLV8vIYTIdSnZ67NQObdXE0gFjrzPrNKHp            (Operating System)
+https://www.youtube.com/watch?v=c6o1X3AIIb0&list=PLV8vIYTIdSnYZjtUDQ5-9siMc2d8YeoB4            (DBMS)
+https://www.youtube.com/watch?v=whRiauuBgV8&list=PLV8vIYTIdSnbwIFENjqBK7yyAkSVSoLBC              (HTML,CSS,JavaScript)
+https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ              (Angular 7)
+Spring Framework
+Apptitude
+daily topics
+https://www.youtube.com/watch?v=tqEIQJzY6co&list=PLY3DFj1jjj0URoyHOnxuau6l0EgzOtoHI                  (Concepts Study)
+
+
+http://placement.freshersworld.com/aptitude-questions-and-answers
+1. Java: http://programmingbydoing.com/ 
+2. Java: http://www.learnjavaonline.org/ 
+3. Data Structures: https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iDD4nnsfVIqPFORTgZi9xRp
+4. Algorithms: https://www.khanacademy.org/computing/computer-science/algorithms
+5. Algorithms: https://www.topcoder.com/community/data-science/data-science-tutorials/  
+
+
+
+
+                     
